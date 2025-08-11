@@ -1,0 +1,4 @@
+.gitignore
+
+pre_questionario/dati/
+.DS_Store
