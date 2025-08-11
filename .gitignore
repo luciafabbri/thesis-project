@@ -1,4 +1,5 @@
 .gitignore
 
 pre_questionario/dati/
+pre_questionario/preprocessing_comments.csv
 .DS_Store
